@@ -1,0 +1,27 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "Playing around with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lol-russo/hello-next.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lol-russo/hello-next/issues"
+  },
+  "homepage": "https://github.com/lol-russo/hello-next#readme",
+  "dependencies": {
+    "next": "^2.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
